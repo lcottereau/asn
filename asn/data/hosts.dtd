@@ -1,0 +1,7 @@
+<!ELEMENT hosts (host)*>
+<!ELEMENT host (#PCDATA)>
+
+<!ATTLIST host lastdate CDATA #REQUIRED>
+<!ATTLIST host id CDATA #REQUIRED>
+<!ATTLIST host score CDATA #REQUIRED>
+<!ATTLIST host status CDATA #REQUIRED>

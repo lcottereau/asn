@@ -1,0 +1,5 @@
+<!ELEMENT algorithms (algorithm)*>
+<!ELEMENT algorithm (#PCDATA)>
+
+<!ATTLIST algorithm id CDATA #REQUIRED>
+<!ATTLIST algorithm url CDATA #REQUIRED>

@@ -1,0 +1,5 @@
+<!ELEMENT whitelist (host)*>
+<!ELEMENT host (#PCDATA)>
+
+<!ATTLIST host id CDATA #REQUIRED>
+<!ATTLIST host priority CDATA #REQUIRED>

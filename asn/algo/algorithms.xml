@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE algorithms SYSTEM "algorithms.dtd">
+
+
+<!-- Start of data -->
+<algorithms>
+	<algorithm id="SHA1" url="D:\Mes Documents\MScNDS\Dissertation\perl\asn\algo\sha1.pl"/>
+	<algorithm id="ASN1" url="D:\Mes Documents\MScNDS\Dissertation\perl\asn\algo\asn1.pl"/>
+</algorithms>
+<!-- End of data -->

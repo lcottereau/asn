@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE whitelist SYSTEM "whitelist.dtd">  
+
+<!-- Start of data -->
+<whitelist>
+	<host id="clark@minet.net" priority="0" />
+	<host id="cotterel@cs.tcd.ie" priority="0" />
+</whitelist>
+<!-- End of data -->

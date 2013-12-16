@@ -1,0 +1,16 @@
+From: cotterel@cs.tcd.ie
+Sent: mardi 14 mai 2002 22:24
+To: clark@minet.net
+Subject: Anti-Spam Network - ignore this message
+X-ASN: EXC-I
+
+hosts:
+	laurent.cottereau@ft.fr
+	yannick.bacquaert@ft.fr
+signatures:
+	19--SHA1--mlqksjdfmlkqjsdfjaizefuhuuuuazh%
+	2--SHA1--mlqksjdfmlljsmlqkjsdfoiuazerjjhj
+
+---------
+
+If you don't know what the ASN is - just ignore this message

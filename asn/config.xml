@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE configs[
+	<!ELEMENT configs (config)*>
+	<!ELEMENT config (#PCDATA)>
+	<!ATTLIST config name CDATA #REQUIRED>
+	<!ATTLIST config value CDATA #REQUIRED>
+]>    
+
+
+<!-- Start of data -->
+<configs>
+	<config name="maindir" value="D:\Mes Documents\MScNDS\Dissertation\perl\asn\"/>
+	<config name="algorithms" value="D:\Mes Documents\MScNDS\Dissertation\perl\asn\algo\algorithms.xml" />
+	<config name="whitelist" value="D:\Mes Documents\MScNDS\Dissertation\perl\asn\data\whitelist.xml" />
+	<config name="hosts" value="D:\Mes Documents\MScNDS\Dissertation\perl\asn\data\hosts.xml" />
+	<config name="signatures" value="D:\Mes Documents\MScNDS\Dissertation\perl\asn\data\signatures.xml" />
+	<config name="version" value="1.0" />
+	<config name="defaultalgo" value="ASN1" />
+	<config name="nbhosttosend" value="3" />
+	<config name="email" value="clark@minet.net" />
+	<config name="smtpserver" value="mail.cs.tcd.ie" />
+	<config name="spamthreashold" value="2" />
+	<config name="sighoptolive" value="3" />
+	<config name="siglifetime" value="604800" />
+	<config name="nbhosttocontact" value="10" />
+</configs>
+<!-- End of data -->

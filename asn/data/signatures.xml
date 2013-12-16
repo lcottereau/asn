@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE signatures SYSTEM "signatures.dtd">
+
+<!-- Start of data -->
+<signatures>
+	<signature id="PPdfg+U5uSz/o9pudCWCmjjDrUw" algo="SHA1" hops="3">
+		<sender id="clark@minet.net" date="1030474044" />
+	</signature>
+	<signature id="eD67R-51uSzkj8Ueelkjsjj87/i" algo="SHA1" hops="2">
+		<sender id="cotterel@cs.tcd.ie" date="1030474231" />
+	</signature>
+</signatures>
+<!-- End of data -->

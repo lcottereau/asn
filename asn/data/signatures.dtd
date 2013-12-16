@@ -1,0 +1,10 @@
+<!ELEMENT signatures (signature)*>
+<!ELEMENT signature (sender)*>
+<!ELEMENT sender (#PCDATA)>
+
+<!ATTLIST signature id CDATA #REQUIRED>
+<!ATTLIST signature algo CDATA #REQUIRED>
+<!ATTLIST signature hops CDATA #REQUIRED>
+
+<!ATTLIST sender id CDATA #REQUIRED>
+<!ATTLIST sender date CDATA #REQUIRED>
